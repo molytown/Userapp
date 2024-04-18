@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "670008827301",
+    "project_id": "storied-storm-362412",
+    "storage_bucket": "storied-storm-362412.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670008827301:android:e7d2f0462d4c14aac0dc4c",
+        "android_client_info": {
+          "package_name": "com.mogomunch.munch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670008827301-j0j016vu37mamu1v6tvoh4aub2oek6gc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADIFWK31jXTtZh-Q_3jgiul2i_UDUkMJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670008827301-j0j016vu37mamu1v6tvoh4aub2oek6gc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
